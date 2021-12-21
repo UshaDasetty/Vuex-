@@ -2,5 +2,5 @@
 # step1:
 yarn install
 
-#step2:
+# step2:
 yarn dev
